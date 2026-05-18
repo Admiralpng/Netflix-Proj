@@ -387,10 +387,10 @@ a{
                 }
 
 /* Common Queries Tab */
-@media (max-width: 600px)  {
-    .common-queries {
-        margin-bottom: 4rem;
-    }
+
+.common-queries {
+    margin-bottom: 4rem;
+}
 
 .common-queries{
     margin-bottom:64px;
@@ -441,7 +441,6 @@ a{
 }
 .query-btn div{
     margin-top: 24px;
-}
 }
 
 /* Footer */

@@ -387,7 +387,7 @@ a{
                 }
 
 /* Common Queries Tab */
-@media (min-width: 960px)   {
+@media (max-width: 600px)  {
     .common-queries {
         margin-bottom: 4rem;
     }
